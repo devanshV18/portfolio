@@ -9,9 +9,9 @@ const HeroSection = () => {
     return (
         <div id="about">
             <HeroContainer>
-                <HeroBg>
+                {/* <HeroBg>
                     <HeroBgAnimation />
-                </HeroBg>
+                </HeroBg> */}
                 <HeroInnerContainer >
                     <HeroLeftContainer id="Left">
                         <Title>Hi, I am <br /> {Bio.name}</Title>
