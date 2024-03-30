@@ -358,7 +358,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/devanshV18/Todo-list-minor-pro2",
-    webapp: "https://github.com/devanshV18/Todo-list-minor-pro2",
+    webapp: "https://todo-list-minor-pro2.vercel.app/",
   },
   
  
