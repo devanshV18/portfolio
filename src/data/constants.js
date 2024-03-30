@@ -354,7 +354,7 @@ export const projects = [
       "Context-Api",
       "Redux",
       "Tailwind Css",
-      "Cloudinary"
+      "Local Storage"
     ],
     category: "web app",
     github: "https://github.com/devanshV18/Todo-list-minor-pro2",
