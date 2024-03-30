@@ -286,7 +286,7 @@ export const projects = [
       "JavaScript",
       "Firebase",
       "Node.js",
-      "Redux"
+      "React Query"
   ],
     category: "web app",
     github: "https://github.com/devanshV18/Resume-Genius",
@@ -331,7 +331,7 @@ export const projects = [
       "React Js",
       "Node Js",
       "Express Js",
-      "React Query",
+      "Redux",
       "MongoDB",
       "PostMan",
       "Tailwind Css",
