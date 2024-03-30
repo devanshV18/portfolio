@@ -331,7 +331,7 @@ export const projects = [
       "React Js",
       "Node Js",
       "Express Js",
-      "Redux",
+      "React Query",
       "MongoDB",
       "PostMan",
       "Tailwind Css",
