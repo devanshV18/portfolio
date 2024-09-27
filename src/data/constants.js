@@ -294,16 +294,16 @@ export const projects = [
   },
   {
     id: 0,
-    title: "Movix",
-    date: "OCT 2023 - NOV 2023",
+    title: "Connect",
+    date: "AUG 2024 - SEP 2023",
     description:
-      "Developed a web application for movie and Tv show lovers as they can find and explore their favorite TV Shows and Movies of their genre of choice all at one place.In addition to this the users can read descriptions, reviews, know about the cast and watch trailers directly",
+      "A real time chat application using MERN stack. it helped me enhance my understanding of realtime data handling and network requests.",
     image:
       "https://i.postimg.cc/Y0FNbZhc/movix-cover.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux", "JavaScript", "Cloudinary"],
     category: "web app",
-    github: "https://github.com/devanshV18/Movix-Project",
-    webapp: "https://github.com/devanshV18/Movix-Project",
+    github: "https://github.com/devanshV18/Connect",
+    webapp: "https://github.com/devanshV18/Connect",
   //   member: [
   //     {
   //       name: "Rishav Chanda",
@@ -321,45 +321,27 @@ export const projects = [
   },
   {
     id: 1,
-    title: "WatchWave",
-    date: "FEB 2024 - Present",
+    title: "DigitalHippo",
+    date: "MAY 2024 - Jul 2024",
     description:
-      "Developing an end to end full stack web app which is a combination of video streaming service and an integration of tweet facilities for interaction among the users.This web app comes with all production grade features such as Authentication, CLoud Data Storage (Cloudinary), Tracking and saving of user's watch history, video uploads, interactive like and comments.",
+      "Built an ecommerce platform for the purchase and selling of digital assets. The project aimed to ease the exchange of quality online resources with authenticity. Users can be sellers or buyers, but for selling they need to pass a quality check of their assets before they get listed.",
     image:
       "https://i.postimg.cc/cLxYnrMG/watchwave-cover.png",
     tags: [
-      "React Js",
+      "Next JS",
       "Node Js",
       "Express Js",
-      "Redux",
+      "CMS Payload",
       "MongoDB",
       "PostMan",
       "Tailwind Css",
       "Cloudinary"
     ],
     category: "web app",
-    github: "https://github.com/devanshV18/WatchWave",
-    webapp: "https://github.com/devanshV18/WatchWave",
+    github: "https://github.com/devanshV18/Eexchange",
+    webapp: "https://github.com/devanshV18/Eexchange",
   },
-  {
-    id: 1,
-    title: "Todo App",
-    date: "jULY 2023 - JULY 2023",
-    description:
-      "A react todo application that comes with local storage and can be used to create,update,delete todos.",
-    image:
-      "https://i.postimg.cc/V6dWbdwk/todolistcover.png",
-    tags: [
-      "React Js",
-      "Context-Api",
-      "Redux",
-      "Tailwind Css",
-      "Local Storage"
-    ],
-    category: "web app",
-    github: "https://github.com/devanshV18/Todo-list-minor-pro2",
-    webapp: "https://todo-list-minor-pro2.vercel.app/",
-  },
+  
   
  
 ];
